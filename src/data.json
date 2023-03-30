@@ -1,0 +1,50 @@
+[
+    {
+        "gridarea":"imgA",
+        "bgpicdesktop":"./images/desktop/image-deep-earth.jpg",
+        "bgpicmobile":"./images/mobile/image-deep-earth.jpg",
+        "title":"Deep earth"
+    },
+    {
+        "gridarea":"imgB",
+        "bgpicdesktop":"./images/desktop/image-night-arcade.jpg",
+        "bgpicmobile":"./images/mobile/image-night-arcade.jpg",
+        "title":"Night arcade"
+    },
+    {
+        "gridarea":"imgC",
+        "bgpicdesktop":"./images/desktop/image-soccer-team.jpg",
+        "bgpicmobile":"./images/mobile/image-soccer-team.jpg",
+        "title":"Soccer team VR"
+    },
+    {
+        "gridarea":"imgD",
+        "bgpicdesktop":"./images/desktop/image-grid.jpg",
+        "bgpicmobile":"./images/mobile/image-grid.jpg",
+        "title":"The grid"
+    },
+    {
+        "gridarea":"imgE",
+        "bgpicdesktop":"./images/desktop/image-from-above.jpg",
+        "bgpicmobile":"./images/mobile/image-from-above.jpg",
+        "title":"From up above VR"
+    },
+    {
+        "gridarea":"imgF",
+        "bgpicdesktop":"./images/desktop/image-pocket-borealis.jpg",
+        "bgpicmobile":"./images/mobile/image-pocket-borealis.jpg",
+        "title":"Pocket borealis"
+    },
+    {
+        "gridarea":"imgG",
+        "bgpicdesktop":"./images/desktop/image-curiosity.jpg",
+        "bgpicmobile":"./images/mobile/image-curiosity.jpg",
+        "title":"The curiosity"
+    },
+    {
+        "gridarea":"imgH",
+        "bgpicdesktop":"./images/desktop/image-fisheye.jpg",
+        "bgpicmobile":"./images/mobile/image-fisheye.jpg",
+        "title":"Make it fisheye"
+    }
+]
