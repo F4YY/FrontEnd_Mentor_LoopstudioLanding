@@ -465,8 +465,10 @@ export const Menulist = styled(Vstack)`
     top:0;
     right:0;
     width: 100%;
+    animation: opensidenav .4s ease-in-out;
+    animation-direction: alternate;
+    animation-iteration-count: 1;
     min-height: 100vh;
-    transition: .5s ease-in-out;
     background:var(--Black);
     z-index:1;
     @media screen and (max-width:600px) {

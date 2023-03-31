@@ -38,4 +38,12 @@ export const Container = styled.div`
         width:100%;
         background-color: var(--Black);
     }
+    @keyframes opensidenav {
+        from {
+            transform: translate3d(100%,0,0);
+        }
+        to{
+            transform: translate3d(0,0,0);
+        }
+    }
 `
