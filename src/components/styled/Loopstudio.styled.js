@@ -137,7 +137,7 @@ export const Styledlist = styled.ul`
                 width: 25px;
                 background: var(--White);
                 position: absolute;
-                left: 25%;
+                left: 22%;
                 top: 0;
             }
         }
@@ -164,7 +164,7 @@ export const Styledlist = styled.ul`
         margin:0;
         li{
             display: list-item;
-            margin:25% 0;
+            margin:25% 0 45%;
         }
     }
 `
@@ -404,7 +404,7 @@ export const Styledlistfooter = styled(Styledlist)`
         padding:0 0 5% 0;
     }
     @media screen and (max-width:600px) {
-        padding:0 0 3% 0;
+        padding:0 0 5% 0;
     }
 `
 export const FooterB = styled.footer`
@@ -494,7 +494,7 @@ export const Menulist = styled(Vstack)`
                     width: 20%;
                     background: var(--Dark-Gray);
                     position: absolute;
-                    left: 2%;
+                    left: 5%;
                     top: 0;
                 }
             }
